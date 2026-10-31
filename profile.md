@@ -31,3 +31,15 @@ I expect to improve my technical knowledge and practical skills through DTI412. 
 - **Technical skills I want to improve:**  Backend development, API development, database design, system architecture, problem-solving, and software testing.
 - **Technologies I want to learn:** Go (Golang), Docker, AWS, CI/CD, Microservices,and AI integration.
 - **Dream Job Position:** Senior Full-Stack Software Engineer.
+
+# Semester Goals
+
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+# Portfolio Projects
+
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
